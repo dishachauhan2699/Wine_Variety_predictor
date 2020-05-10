@@ -7,7 +7,7 @@
 
 ## FOLDERS
  - Notebooks(contains 2 Analysis notebooks with graphs and 1 Model based Notebook used for Creating classifiers)
- - Models (pkl files of model[RFC was around 2.9Gbs wasn't uploaded])
+ - Models (pkl files of model[RFC was around 2.9GB wasn't uploaded])
  - OUPUT (contains 3 csv files)
     - train and valid( contains all features and actual and predcited columns)
     - test ( contains all features and predcited column)
